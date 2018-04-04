@@ -1,0 +1,2 @@
+Se editaron los modulos js header, body, principal, con todos sus archivos css. Se añadio una carpeta en componentes responsive_utilities la cual contiene las caracteristicas para aceptar cualquier formato; sea para tablet, celulares y escritorio.
+se instalo react-responsive con el comando npm install react-responsive --save y tambien npm install --save react-responsive-navbar. Se borro la carpeta Header.js y se reemplazo por Header1.js
