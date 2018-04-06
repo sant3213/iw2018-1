@@ -1,0 +1,28 @@
+{
+  "name": "ventamedicamentos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+<<<<<<< HEAD
+    "firebase": "^4.12.1",
+=======
+>>>>>>> c65e647b3405c37e9c0f75a9d68ffe4fa113a2b4
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-nav-bar": "^0.6.5",
+<<<<<<< HEAD
+    "react-responsive": "^4.1.0",
+    "react-responsive-navbar": "^1.0.11",
+=======
+>>>>>>> c65e647b3405c37e9c0f75a9d68ffe4fa113a2b4
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

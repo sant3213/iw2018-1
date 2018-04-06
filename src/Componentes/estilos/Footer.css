@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.Footer {
+  background-color: #434547;
+  width: 100%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 0.8em;
+}
+
+<<<<<<< HEAD
+
+.FooterPhone {
+  background-color: #434547;
+  width: 100%;
+  margin: auto;
+  padding-top: 1px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 0.5em;
+}
+
+
+=======
+>>>>>>> c65e647b3405c37e9c0f75a9d68ffe4fa113a2b4
+.App-title {
+  font-size: 1.5em;
+}
+
+<<<<<<< HEAD
+.footerLogoDesk{
+    height: 50px;
+}
+
+.footerLogoPhone{
+    height: 25px;
+}
+
+.footerLogoTablet{
+=======
+.footerLogo{
+>>>>>>> c65e647b3405c37e9c0f75a9d68ffe4fa113a2b4
+    height: 50px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
