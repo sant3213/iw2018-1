@@ -5,7 +5,7 @@ class Comprar extends Component {
   render() {
     return (
       <div>
-          Hola Comprar
+          Hola Comprarrrr
       </div>
     );
   }
