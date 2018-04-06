@@ -4,7 +4,7 @@ class Consultar extends Component {
   render() {
     return (
       <div>
-          Hola Consultar
+          Hola Consultar, consultar consultaaaaaaa yaaaaaaa
       </div>
     );
   }
